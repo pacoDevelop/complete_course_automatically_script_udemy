@@ -3,5 +3,5 @@ Este script completa automáticamente los cursos, ya que udemy no tiene ningún 
 
 Usar un navegador ir al curso que quieres completar, abrir el inspeccionador de elemento del navegador y pegar el script. Pulsar enter.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/pacoDevelop/complete_course_automatically_script_udemy/raw/main/video_2022-06-08_00-30-33.mp4))
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/pacoDevelop/complete_course_automatically_script_udemy/raw/main/video_2022-06-08_00-30-33.mp4)
 
