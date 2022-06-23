@@ -6,3 +6,4 @@ Usar un navegador ir al curso que quieres completar, abrir el inspeccionador de 
 https://raw.githubusercontent.com/pacoDevelop/complete_course_automatically_script_udemy/main/video_2022-06-08_00-30-33.mp4
 
 
+https://user-images.githubusercontent.com/1149845/156939675-5ea0c510-ddd3-4de7-b293-87d3697bd1a8.mp4
